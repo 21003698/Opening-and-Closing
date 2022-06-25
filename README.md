@@ -57,28 +57,18 @@ plt.imshow(image1)
 ## Output:
 
 ### Display the input Image
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<img width="376" alt="sandoo" src="https://user-images.githubusercontent.com/93427522/175764575-3a1d4186-8a94-4023-ab21-554fe4cffc37.png">
+
+
+
 
 ### Display the result of Opening
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<img width="376" alt="sandoo1" src="https://user-images.githubusercontent.com/93427522/175764586-0a9530eb-d027-42d0-9791-010f5c5efece.png">
+
 
 ### Display the result of Closing
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<img width="376" alt="sandoo2" src="https://user-images.githubusercontent.com/93427522/175764591-18eaadd0-51ce-4f07-b7df-a86c6c3f3265.png">
+
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
