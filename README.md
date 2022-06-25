@@ -26,8 +26,8 @@ Use Closing Operation.
 ## Program:
 
 ``` Python
-### Developed By: Manoj Guna Sundar Tella.
-### Register No: 212221240026.
+### Developed By: Challa Sandeep.
+### Register No: 212221240011.
 # Import the necessary packages
 import numpy as np
 import cv2
